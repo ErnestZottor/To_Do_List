@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(223, 206, 206);
+}
+.mytodo{
+    background-color:rgb(235, 129, 147);
+}
+
+.mydo{
+    background-color: rgb(240, 240, 174);
+}
+.mydone{
+    background-color:rgb(61, 105, 61);
+    text-decoration: line-through;
+}
+
+.submit{
+    width: 100px;
+    
+}
+li{
+    font-size: large;
+}
